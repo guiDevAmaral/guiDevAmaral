@@ -1,7 +1,6 @@
 # 👨🏽‍💻 Guilherme Amaral
 
-Hey there, I'm a tech-loving Brazilian who's always on the lookout for ways to make life easier. I've been studying hard lately, with the goal of becoming a top-notch back-end developer. Although I'm still a beginner in the field, and I'm always building projects from scratch to expand my knowledge and solve real-life problems with code. If you're interested in connecting, hit me up!
-
+Olá, sou um brasileiro apaixonado por tecnologia que está sempre em busca de maneiras de facilitar a vida. Tenho o objetivo de me tornar um desenvolvedor de back-end de primeira linha.Estou sempre construindo projetos do zero para expandir meus conhecimentos e solucionar problemas do mundo real com código. Se você estiver interessado em se conectar, me procure!
 #
 
 ### 🧰 Languages and Tools
@@ -27,5 +26,5 @@ Hey there, I'm a tech-loving Brazilian who's always on the lookout for ways to m
 #
 
 
-<h2>Contact</h2><p>If you want to get in touch with me, feel free to send an email to <a href="mailto:meu-endereco-de-email@gmail.com" target="_new">gui.dev.amaral@gmail.com</a> or connect with me on LinkedIn at <a href="https://www.linkedin.com/in/guilherme-amaral-615429234/" target="_new">my profile</a>.</p>
+<h2>Contact</h2><p>Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um e-mail para <a href="mailto:meu-endereco-de-email@gmail.com" target="_new">gui.dev.amaral@gmail.com</a> ou conectar-se comigo no LinkedIn em <a href="https://www.linkedin.com/in/guilherme-amaral-615429234/" target="_new">meu perfil</a>.</p>
 
